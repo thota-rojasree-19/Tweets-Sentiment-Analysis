@@ -59,7 +59,7 @@ whether it’s **positive**, **negative**, or **neutral** — using Natural Lang
 ---
 
 ## 🧩 **Project Structure**
-
+```
 Tweets/
 │
 ├── app.py # Streamlit web app
@@ -70,7 +70,7 @@ Tweets/
 ├── README.md # Project documentation
 ├── .gitignore # Files and folders ignored by Git
 └── data/ # (Optional) Dataset folder (ignored in Git
-
+```
 2️⃣ Create and activate virtual environment
 python -m venv sentiment_env
 sentiment_env\Scripts\activate    # for Windows
